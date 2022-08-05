@@ -70,7 +70,7 @@ Below are the Cumulative Returns for each portfolio.
 ![Cumulative Returns: Whale](https://github.com/RPSangil/HW-4-Pandas/blob/183c616a74d84ee578739180e8b48d7b80abf065/Images/Cumulative_Returns_Whale.png)
 
 <ins> Cumulative Returns: Algorithms </ins>
-![Cumulative Returns: Algorithms](https://github.com/RPSangil/HW-4-Pandas/blob/183c616a74d84ee578739180e8b48d7b80abf065/Images/Daily_Returns_Algorithms.png)
+![Cumulative Returns: Algorithms](https://github.com/RPSangil/HW-4-Pandas/blob/d7f0773b5f66a68ab6ff33663498fd36b5f90263/Images/Cumulative_Returns_Algorithms.png)
 
 <ins> Cumulative Returns: S&P 500 </ins>
 ![Cumulative Returns: S&P 500](https://github.com/RPSangil/HW-4-Pandas/blob/183c616a74d84ee578739180e8b48d7b80abf065/Images/Cumulative_Returns_S&P500.png)
