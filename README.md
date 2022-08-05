@@ -6,10 +6,10 @@
 - [Navigating the GitHub](#Navigating-the-GitHub)
 - [Important Notice](#Important-Notice)
 - [Quantative Analysis](#Introduction)
-    *[Performance](#Performance)
-    *[Risk Analysis](#risk-analysis)
-        *[Rolling Statistics](#rolling-statistics)
-    *[Sharpe Ratios](#sharpe-ratios)
+    * [Performance](#Performance)
+    * [Risk Analysis](#risk-analysis)
+        * [Rolling Statistics](#rolling-statistics)
+    * [Sharpe Ratios](#sharpe-ratios)
 - [Reference List](#Reference-List)
 
 ## The Scenario
@@ -115,7 +115,7 @@ In reality, investment managers and thier institutional investors look at the ra
 - The Sharpe ratio has several weaknesses, including an assumption that investment returns are normally distributed. [<sup>1</sup>](#reference-list)
 
 <ins> Sharpe Ratios </ins>
-![Sharpe Ratios](this is a link)
+![Sharpe Ratios](https://github.com/RPSangil/HW-4-Pandas/blob/548c15d1396c72ed46b044c9316988fe7c1c5613/Images/Sharpe_Ratios.PNG)
 
 The Algorithmic strategies have overall better risk measures than the other portfolios. Looking at returns, Algo 1 had the well out performed the others. Overall, the algorithmic strategies did outperform the other portfolios.
 
