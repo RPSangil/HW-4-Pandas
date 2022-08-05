@@ -1,17 +1,22 @@
 # HW-4-Pandas
-**Unit <#> - <Title>**
+**Unit 4 - A Whale Off the Port(folio)**
 
 ## The Scenario
 
 <Project Scenario>
 
+Harold's company has been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
+
+You just learned these quantitative analysis techniques with Python and Pandas, so Harold has come to you with a challenge—to help him determine which portfolio is performing the best across multiple areas: volatility, returns, risk, and Sharpe ratios.
+
+You need to create a tool (an analysis notebook) that analyzes and visualizes the major metrics of the portfolios across all of these areas, and determine which portfolio outperformed the others. You will be given the historical daily returns of several portfolios: some from the firm's algorithmic portfolios, some that represent the portfolios of famous "whale" investors like Warren Buffett, and some from the big hedge and mutual funds. You will then use this analysis to create a custom portfolio of stocks and compare its performance to that of the other portfolios, as well as the larger market (S&P TSX 60 Index).
+
 ## Navigating the GitHub
 
 The following was provided at the beginging of the assessment and can be found in the Starter_code folder:
 
-- [Insert Given Notebook Name](this is a link)
-- [Inset Resource given](this is a link)
-- [Inset Resource given](this is a link)
+- [Whale Analysis Starter Notebook](https://github.com/RaelynSangil/HW-4-Pandas/blob/cd27f814bbf8a07f856ce0acc4ae6bda3f37f7f4/Starter_Code/whale_analysis.ipynb)
+- [Resources](https://github.com/RaelynSangil/HW-4-Pandas/tree/main/Starter_Code/Resources)
 
 In the Worked_Code folder you will find:
 
